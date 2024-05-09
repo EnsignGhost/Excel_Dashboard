@@ -1,11 +1,11 @@
 # Excel_Dashboard :-
 
 ## Created an attractive Dashboard using Excel.
-## Following Steps are follow ->
-### 1.Data Cleaning
-### 2.Data Processing
-### 3.Data Analysis
-### 4.Make Charts using Pivot table. Then assemble them on a sheet.
+### Following Steps are follow ->
+#### 1.Data Cleaning
+#### 2.Data Processing
+#### 3.Data Analysis
+#### 4.Make Charts using Pivot table. Then assemble them on a sheet.
 
 ## Objective-
 ### Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
